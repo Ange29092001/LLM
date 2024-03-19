@@ -9,3 +9,7 @@ In addition, we are drawing on the latest advances in pre-trained language model
 This project raises several challenges, including data augmentation to enrich the initial training set, as well as training a translation model adapted to the linguistic peculiarities of Darija. 
 We evaluate the performance of our system using the BLEU score, a standard measure in the evaluation of machine translation systems.
 The following sections will detail our approach to data augmentation, the design of the translation model, and our conclusions and prospects for future developments in this exciting area of NLP.
+
+# Seamless 
+
+Some tutorials on Seamless using for T2T, T2S, S2T and S2S
